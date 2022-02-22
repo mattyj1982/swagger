@@ -1,5 +1,5 @@
-# swagger
+# Swagger Api
 Swagger Api and test harness
-To test api call  
-SwaggerManager sM = new SwaggerManager();
+# Test Example
+SwaggerManager sM = new SwaggerManager(); </br>
 List<User> allUsersInAndAroundLondon = sM.GetAllUsersInAndAroundLondon();
